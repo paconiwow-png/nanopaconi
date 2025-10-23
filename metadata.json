@@ -1,0 +1,5 @@
+{
+  "name": "NanoCanvas AI",
+  "description": "A cutting-edge graphic design Progressive Web App (PWA) that merges the power of professional image editing with intuitive AI-driven features. Generate and edit images from text prompts using Google's advanced AI, create stunning visuals, and export your designs in high quality.",
+  "requestFramePermissions": []
+}
